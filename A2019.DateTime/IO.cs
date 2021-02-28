@@ -7,6 +7,7 @@ namespace A2019.Convertor
 {
     class IO
     {
+        //comment
         public string ReadFromFile(string pathFile)
         {
             try

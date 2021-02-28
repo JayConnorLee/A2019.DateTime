@@ -34,29 +34,5 @@ namespace A2019.DateTime
             return date.GetType().GetProperty(property).GetValue(date, null).ToString();
         }
 
-        public string DateTimeInfo2(string property)
-        {
-            return property;
-        }
-
-        public string DateTimeInfo3()
-        {
-            return "property";
-        }
-
-        public string kkk()
-        {
-            return "";
-
-        }
-
-        public dynamic ttt(dynamic p)
-        {
-            return p;
-        }
-        public string ttt2()
-        {
-            return "eee";
-        }
     }
 }

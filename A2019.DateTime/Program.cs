@@ -9,7 +9,7 @@ namespace A2019.DateTime
     {
         public static void Main(string[] arg)
         {
-
+            //comment
             sys.DateTime n1 = sys.DateTime.Now;
             sys.DateTime n2 = sys.DateTime.Now;
             DateTime dt = new DateTime();
